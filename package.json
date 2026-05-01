@@ -1,0 +1,28 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitin-7-7/backendeng_labpractical_2415001052.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nitin-7-7/backendeng_labpractical_2415001052/issues"
+  },
+  "homepage": "https://github.com/nitin-7-7/backendeng_labpractical_2415001052#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cookies": "^0.9.1",
+    "cookies-parser": "^1.2.0",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0"
+  }
+}
